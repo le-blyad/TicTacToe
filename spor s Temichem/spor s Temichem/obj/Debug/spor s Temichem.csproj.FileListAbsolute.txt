@@ -1,0 +1,7 @@
+C:\Users\kiril\source\repos\spor s Temichem\spor s Temichem\bin\Debug\spor s Temichem.exe.config
+C:\Users\kiril\source\repos\spor s Temichem\spor s Temichem\bin\Debug\spor s Temichem.exe
+C:\Users\kiril\source\repos\spor s Temichem\spor s Temichem\bin\Debug\spor s Temichem.pdb
+C:\Users\kiril\source\repos\spor s Temichem\spor s Temichem\obj\Debug\spor s Temichem.csproj.AssemblyReference.cache
+C:\Users\kiril\source\repos\spor s Temichem\spor s Temichem\obj\Debug\spor s Temichem.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\spor s Temichem\spor s Temichem\obj\Debug\spor s Temichem.exe
+C:\Users\kiril\source\repos\spor s Temichem\spor s Temichem\obj\Debug\spor s Temichem.pdb
